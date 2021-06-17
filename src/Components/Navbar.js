@@ -5,7 +5,7 @@ const Navbar = () => {
                 <div className="row">
                     <div className="col-md-12">
                     <nav className="navbar navbar-expand-lg navbar-light">
-                    <a className="navbar-brand" href="#">DOJO APP</a>
+                    <a className="navbar-brand" href="#">DOJO</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -16,7 +16,16 @@ const Navbar = () => {
                         </li>
                     
                         <li class="nav-item">
-                            <a class="nav-link" href="#">New Blog</a>
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Features</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
                         </li>
                        
                         </ul>
