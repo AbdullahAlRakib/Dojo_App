@@ -5,7 +5,7 @@ const Hero = () => {
                 <div className="row">
                     <div className="col-md-6">
                         <div className="hero-content">
-                            <h2>Welcome to DOJO App.</h2>
+                            <h2>Welcome to DOJO App</h2>
                             <h3>Make Your Journey easy with DOJO App</h3>
                         </div>
                     </div>
